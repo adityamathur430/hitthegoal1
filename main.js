@@ -1,4 +1,4 @@
-var canvas= newfabric.Canvas ('myCanvas');
+var canvas= newfabric.Canvas('myCanvas');
 
 ball_x=0;
 ball_y=0;
